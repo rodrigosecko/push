@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "703031378522",
+    "firebase_url": "https://push-laptop-11ed2.firebaseio.com",
+    "project_id": "push-laptop-11ed2",
+    "storage_bucket": "push-laptop-11ed2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703031378522:android:2fdc145387a60e8ac6ce63",
+        "android_client_info": {
+          "package_name": "com.example.pushpmgm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703031378522-6580ec7d9tc761f6rs0o5h1fc0sij0lj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pushpmgm",
+            "certificate_hash": "7e3f218c1c0bfa929d769f400d91cd9516e5c153"
+          }
+        },
+        {
+          "client_id": "703031378522-o324cgu2rtn640rkgr4cf7h9j6mukjdi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXPsz9JO7sb9elgzhmc2H4n96dYYOoTHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703031378522-o324cgu2rtn640rkgr4cf7h9j6mukjdi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
